@@ -1,0 +1,7 @@
+id = "monospace-icon-theme"
+name = "Monospace Icon Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Isheunopa Ralph Mhonde <irmhonde@gmail.com>"]
+description = "Monospace icons."
+repository = "https://github.com/irmhonde/monospace-icon-theme"
