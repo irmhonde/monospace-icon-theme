@@ -792,7 +792,9 @@
         "gitignore": "git",
         "LICENSE": "certificate",
         "tailwind.config.ts": "tailwindcss",
-        "next.config.ts": "next"
+        "next.config.ts": "next",
+        "package-lock.json": "nodejs",
+        "package.json": "nodejs"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2032,7 +2034,9 @@
         "gitignore": "git",
         "LICENSE": "certificate",
         "tailwind.config.ts": "tailwindcss",
-        "next.config.ts": "next"
+        "next.config.ts": "next",
+        "package-lock.json": "nodejs",
+        "package.json": "nodejs"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
