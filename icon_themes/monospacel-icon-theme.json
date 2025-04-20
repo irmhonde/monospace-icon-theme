@@ -794,7 +794,8 @@
         "tailwind.config.ts": "tailwindcss",
         "next.config.ts": "next",
         "package-lock.json": "nodejs",
-        "package.json": "nodejs"
+        "package.json": "nodejs",
+        "favicon.ico": "favicon"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2036,7 +2037,8 @@
         "tailwind.config.ts": "tailwindcss",
         "next.config.ts": "next",
         "package-lock.json": "nodejs",
-        "package.json": "nodejs"
+        "package.json": "nodejs",
+        "favicon.ico": "favicon"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
