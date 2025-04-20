@@ -790,7 +790,8 @@
         "tldr": "tldraw",
         "README.md": "readme",
         "gitignore": "git",
-        "LICENSE": "certificate"
+        "LICENSE": "certificate",
+        "tailwind.config.ts": "tailwindcss"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2028,7 +2029,8 @@
         "tldr": "tldraw",
         "README.md": "readme",
         "gitignore": "git",
-        "LICENSE": "certificate"
+        "LICENSE": "certificate",
+        "tailwind.config.ts": "tailwindcss"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
