@@ -791,7 +791,8 @@
         "README.md": "readme",
         "gitignore": "git",
         "LICENSE": "certificate",
-        "tailwind.config.ts": "tailwindcss"
+        "tailwind.config.ts": "tailwindcss",
+        "next.config.ts": "next"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2030,7 +2031,8 @@
         "README.md": "readme",
         "gitignore": "git",
         "LICENSE": "certificate",
-        "tailwind.config.ts": "tailwindcss"
+        "tailwind.config.ts": "tailwindcss",
+        "next.config.ts": "next"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
