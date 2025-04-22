@@ -799,7 +799,8 @@
         "shtml": "html",
         "gradlew": "gradle",
         "gradle.properties": "gradle",
-        "gradle-wrapper.properties": "gradle"
+        "gradle-wrapper.properties": "gradle",
+        "htaccess": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2046,7 +2047,8 @@
         "shtml": "html",
         "gradlew": "gradle",
         "gradle.properties": "gradle",
-        "gradle-wrapper.properties": "gradle"
+        "gradle-wrapper.properties": "gradle",
+        "htaccess": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
