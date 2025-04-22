@@ -796,7 +796,10 @@
         "package-lock.json": "nodejs",
         "package.json": "nodejs",
         "favicon.ico": "favicon",
-        "shtml": "html"
+        "shtml": "html",
+        "gradlew": "gradle",
+        "gradle.properties": "gradle",
+        "gradle-wrapper.properties": "gradle"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2040,7 +2043,10 @@
         "package-lock.json": "nodejs",
         "package.json": "nodejs",
         "favicon.ico": "favicon",
-        "shtml": "html"
+        "shtml": "html",
+        "gradlew": "gradle",
+        "gradle.properties": "gradle",
+        "gradle-wrapper.properties": "gradle"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
