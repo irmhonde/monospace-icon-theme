@@ -795,7 +795,8 @@
         "next.config.ts": "next",
         "package-lock.json": "nodejs",
         "package.json": "nodejs",
-        "favicon.ico": "favicon"
+        "favicon.ico": "favicon",
+        "shtml": "html"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2038,7 +2039,8 @@
         "next.config.ts": "next",
         "package-lock.json": "nodejs",
         "package.json": "nodejs",
-        "favicon.ico": "favicon"
+        "favicon.ico": "favicon",
+        "shtml": "html"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
