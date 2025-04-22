@@ -799,7 +799,13 @@
         "shtml": "html",
         "gradlew": "gradle",
         "gradle.properties": "gradle",
-        "gradle-wrapper.properties": "gradle"
+        "gradle-wrapper.properties": "gradle",
+        "htaccess": "xml",
+        "storyboard": "xml",
+        "xcscheme": "xml",
+        "xcsettings": "xml",
+        "xcworkspacedata": "xml",
+        "xcproj": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2046,7 +2052,13 @@
         "shtml": "html",
         "gradlew": "gradle",
         "gradle.properties": "gradle",
-        "gradle-wrapper.properties": "gradle"
+        "gradle-wrapper.properties": "gradle",
+        "htaccess": "xml",
+        "storyboard": "xml",
+        "xcscheme": "xml",
+        "xcsettings": "xml",
+        "xcworkspacedata": "xml",
+        "xcproj": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
