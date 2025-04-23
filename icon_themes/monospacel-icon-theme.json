@@ -805,7 +805,8 @@
         "xcscheme": "xml",
         "xcsettings": "xml",
         "xcworkspacedata": "xml",
-        "xcproj": "xml"
+        "xcproj": "xml",
+        "xib": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2058,7 +2059,8 @@
         "xcscheme": "xml",
         "xcsettings": "xml",
         "xcworkspacedata": "xml",
-        "xcproj": "xml"
+        "xcproj": "xml",
+        "xib": "xml"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
