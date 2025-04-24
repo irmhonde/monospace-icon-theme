@@ -806,7 +806,8 @@
         "xcsettings": "xml",
         "xcworkspacedata": "xml",
         "xcproj": "xml",
-        "xib": "xml"
+        "xib": "xml",
+        "gitconfig": "git"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
@@ -2060,7 +2061,8 @@
         "xcsettings": "xml",
         "xcworkspacedata": "xml",
         "xcproj": "xml",
-        "xib": "xml"
+        "xib": "xml",
+        "gitconfig": "git"
       },
       "file_icons": {
         "html": { "path": "./icons/html.svg" },
