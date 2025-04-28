@@ -6,8 +6,9 @@ Monospace Icons for [Zed](https://zed.dev/)
 
 <div align="center">
 
-[![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=8964e8&style=for-the-badge)](LICENSE.md)
+[![GitHub License](https://img.shields.io/github/issues/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=8964e8&style=for-the-badge)](LICENSE.md)
 ![GitHub Stars](https://img.shields.io/github/stars/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=17975f&style=for-the-badge)
+![GitHub Stars](https://img.shields.io/github/contributors/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=e45d0c&style=for-the-badge)
 
 <img src="assets/icons.png" alt="icons" width="1920" />
 
@@ -26,6 +27,6 @@ Monospace Icons for [Zed](https://zed.dev/)
 
 These icons are derived from the Monospace Icon Theme for [Firebase Studio](https://firebase.google.com/studio) and are distributed under their original [LICENSE](LICENSE.md).
 
-[![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=8964e8&style=for-the-badge)](LICENSE.md)
+[![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=008ac9&style=for-the-badge)](LICENSE.md)
 
 </div>
