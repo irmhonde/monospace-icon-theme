@@ -5,9 +5,7 @@
 [![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?style=for-the-badge)](LICENSE.md)
 ![GitHub Stars](https://img.shields.io/github/stars/irmhonde/monospace-icon-theme?style=for-the-badge&logo=github)
 
-Monospace icons for [Zed](https://zed.dev/).
-
-<img src="assets/icons.png" alt="dark" width="1920" />
+<img src="assets/icons.png" alt="icons" width="1920" />
 
 ---
 
