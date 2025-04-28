@@ -1,8 +1,8 @@
-<h3 align="center">
+<h1 align="center">
 
 Monospace Icons for [Zed](https://zed.dev/)
 
-</h3>
+</h1>
 
 <div align="center">
 
