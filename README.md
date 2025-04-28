@@ -4,11 +4,13 @@ Monospace Icons for [Zed](https://zed.dev/)
 
 </h1>
 
-<div align="center">
+<p align="center">
+    <a href="https://github.com/irmhonde/monospace-icon-theme/issues"><img src="https://img.shields.io/github/issues/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=8964e8&style=for-the-badge"></a>
+    <a href="https://github.com/irmhonde/monospace-icon-theme/stargazers"><img src="https://img.shields.io/github/stars/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=17975f&style=for-the-badge"></a>
+    <a href="https://github.com/irmhonde/monospace-icon-theme/contributors"><img src="https://img.shields.io/github/contributors/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=e45d0c&style=for-the-badge"></a>
+</p>
 
-[![GitHub License](https://img.shields.io/github/issues/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=8964e8&style=for-the-badge)](LICENSE.md)
-![GitHub Stars](https://img.shields.io/github/stars/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=17975f&style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/contributors/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=e45d0c&style=for-the-badge)
+<div align="center">
 
 <img src="assets/icons.png" alt="icons" width="1920" />
 
