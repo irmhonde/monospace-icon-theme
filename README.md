@@ -27,8 +27,8 @@ Monospace Icons for [Zed](https://zed.dev/)
 
 <div align="center">
 
-These icons are derived from the Monospace Icon Theme for [Firebase Studio](https://firebase.google.com/studio) and are distributed under their original [LICENSE](LICENSE.md).
+These icons are derived from the Monospace Icon Theme for [Firebase Studio](https://firebase.google.com/studio) and are distributed under their original [LICENSE](LICENSE).
 
-[![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=008ac9&style=for-the-badge)](LICENSE.md)
+[![GitHub License](https://img.shields.io/github/license/irmhonde/monospace-icon-theme?colorA=1d1325&colorB=008ac9&style=for-the-badge)](LICENSE)
 
 </div>
